@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Woofie</string>
+    <string name="tapHere">Tap here to SELECT your not so "WOW" photo</string>
+    <string name="button_send">Share</string>
+    <string name="button_show">Toggle Suggestions</string>
+</resources>
